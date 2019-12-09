@@ -1,0 +1,30 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.format",VALUE="HD"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.title",VALUE="Pokémon: El desafío de Darkrai (Doblada)",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.poster",VALUE="https://is4-ssl.mzstatic.com/image/thumb/XQNFRpqo8TzLvlbbaR0RuA/{w}x{h}bb.{f}",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.genre",VALUE="Anime",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.release-date",VALUE="2008-09-06T07:00:00Z"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-tag",VALUE="A/TP"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-system",VALUE="es-movie"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-rank",VALUE="100"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.description",VALUE="Puede que Ash piense que lo ha visto todo en lo que se refiere a Pokémon, pero ¿está preparado para enfrentarse al misterioso Darkrai en esta increíble aventura?En su camino hacia el concurso Pokémon, nuestros héroes pasan por Pueblo Álamos, hogar de las Torres del Espacio y Tiempo. Ash y sus amigos descubren que algo está causando terribles pesadillas a Pokémon y personas. El arrogante Barón Alberto inmediatamente le echa la culpa al Pokémon singular Darkrai, que aparece y se enfrenta a nuestros héroes.¿Quién es Darkrai? ¿Es un amigo… o un enemigo? A medida que el cielo se desgarra sobre Pueblo Álamos y aparecen los Pokémon legendarios Dialga y Palkia, ¡su consiguiente lucha amenaza con abrir un agujero en el continuo espacio-tiempo! ¿Sobrevivirán Ash y sus amigos a esta confrontación para llegar a conocer la verdadera naturaleza de Darkrai?",LANGUAGE="es-es"
+
+#-- es (2) --
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="es",GROUP-ID="audio-stereo-128",NAME="Español",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview122/v4/6c/51/01/6c510143-22e3-6a80-7e82-3821269082ad/P42851731_A1069764970_FF.p_es_audio_gr128.m3u8"
+
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=57570,_AVG-BANDWIDTH=57570,BANDWIDTH=66126,CODECS="avc1.64001f",RESOLUTION=488x266,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview122/v4/eb/3e/aa/eb3eaa66-20fe-c5b3-6bea-704909592474/P42851731_A1069764970_FF.p_trickPlay_gr203.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=79316,_AVG-BANDWIDTH=79316,BANDWIDTH=91525,CODECS="avc1.64001f",RESOLUTION=552x300,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/3e/fb/d5/3efbd5a3-3b38-49d1-1067-985c8fe2c528/P42851731_A1069764970_FF.p_trickPlay_gr205.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=112129,_AVG-BANDWIDTH=112129,BANDWIDTH=133851,CODECS="avc1.64001f",RESOLUTION=618x336,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview122/v4/51/23/58/512358cf-a90c-d4b3-984a-f3cd0a0a9d3b/P42851731_A1069764970_FF.p_trickPlay_gr207.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=165125,_AVG-BANDWIDTH=165125,BANDWIDTH=197771,CODECS="avc1.64001f",RESOLUTION=684x372,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/71/10/41/711041bf-80aa-e574-0282-8011cf540762/P42851731_A1069764970_FF.p_trickPlay_gr210.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=241064,_AVG-BANDWIDTH=241064,BANDWIDTH=283573,CODECS="avc1.64001f",RESOLUTION=780x424,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview122/v4/bb/10/c1/bb10c1fc-2cf6-a6e8-3edf-80a32323b60c/P42851731_A1069764970_FF.p_trickPlay_gr220.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=325457,_AVG-BANDWIDTH=325457,BANDWIDTH=381699,CODECS="avc1.64001f",RESOLUTION=878x478,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview122/v4/77/55/8f/77558fa8-621f-aa7a-610b-0b5b53bde12b/P42851731_A1069764970_FF.p_trickPlay_gr230.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=455548,_AVG-BANDWIDTH=455548,BANDWIDTH=538470,CODECS="avc1.64001f",RESOLUTION=1040x566,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/25/3b/f7/253bf7b6-6431-d762-bff8-fa0c8f3863ab/P42851731_A1069764970_FF.p_trickPlay_gr240.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=604219,_AVG-BANDWIDTH=604219,BANDWIDTH=782194,CODECS="avc1.640020",RESOLUTION=1302x708,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/76/96/09/769609c3-e6c4-fcc1-4a17-7927b14585e2/P42851731_A1069764970_FF.p_trickPlay_gr250.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=818459,_AVG-BANDWIDTH=818459,BANDWIDTH=1028796,CODECS="avc1.640028",RESOLUTION=1912x1040,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/9d/08/66/9d0866a1-a081-75da-15ee-49dd4763003d/P42851731_A1069764970_FF.p_trickPlay_gr265.iframe.m3u8"
+
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=6347174,_AVG-BANDWIDTH=6347174,BANDWIDTH=7915836,CLOSED-CAPTIONS=NONE,CODECS="avc1.640028,mp4a.40.2",AUDIO="audio-stereo-128",FRAME-RATE=23.976,RESOLUTION=1912x1040,STABLE-VARIANT-ID="f737c79071315f52475fe9687cfc9513f434e9b0715faf63a76f25b6aba63979"
+https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/e0/b9/57/e0b9571c-c745-9ebe-7604-ecf5d9599b40/P42851731_A1069764970_FF.p_video_gr280.m3u8
+
+#42851731 video moviePreviews external es ES Unknown HD   
