@@ -1,0 +1,30 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.format",VALUE="HD"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.title",VALUE="La película Pokémon Blanco: Victini y Zekrom",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.poster",VALUE="https://is2-ssl.mzstatic.com/image/thumb/HrJbujRBc3CzP3kDsPmtGA/{w}x{h}bb.{f}",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.genre",VALUE="Anime",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.release-date",VALUE="2012-04-28T07:00:00Z"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-tag",VALUE="A/TP"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-system",VALUE="es-movie"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-rank",VALUE="100"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.description",VALUE="Durante su viaje por la región de Teselia, Ash y sus amigos Iris y Millo llegan a Pueblo Eindoak, edificado alrededor de un castillo conocido como la Espada del Valle. Los tres han ido hasta allí para tomar parte en el torneo anual del pueblo, ¡y Ash consigue ganar gracias a la ayuda inesperada del Pokémon singular Victini! Lo cierto es que Victini tiene un vínculo especial con ese lugar... Mucho tiempo atrás, el castillo custodiaba el Reino del Valle, y el rey y Victini protegían a sus habitantes conjuntamente. Pero aquel reino desapareció, dejando tras de sí poderosas reliquias y antiguos Pokémon. Damon, un descendiente de la Tribu del Valle, se ha propuesto restaurar el reino perdido con la ayuda de su Reuniclus. Su cruzada le ha llevado hasta un remoto desierto donde ha convencido al Pokémon legendario Reshiram para que lo acompañe. Damon tiene la intención de atrapar a Victini y utilizar su poder, pero, cuando su plan se pone en marcha, ¡el desastre se cierne sobre Pueblo Eindoak! ¿Podrá el poder de los ideales de Ash convencer al Pokémon legendario Zekrom para que lo ayude a detener a Damon? ¿Podrán salvar a Victini? ¡Se acerca la mayor aventura en la historia de Pokémon!",LANGUAGE="es-es"
+
+#-- es-ES (3) --
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="es-ES",GROUP-ID="audio-stereo-160",NAME="Español (España)",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview122/v4/cb/c9/60/cbc960d0-2fc7-70e9-2cf9-2948b17d7c56/P44084385_A1072245703_FF.p_es-ES_audio_gr160.m3u8"
+
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=57235,_AVG-BANDWIDTH=57235,BANDWIDTH=65246,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=480x270,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/ab/a9/7e/aba97ed6-4a2d-8dba-17cb-575e77f08bd6/P44084385_A1072245703_FF.p_trickPlay_gr203.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=78782,_AVG-BANDWIDTH=78782,BANDWIDTH=90470,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=544x306,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/07/2d/27/072d2783-568c-1222-5536-5087c074e31a/P44084385_A1072245703_FF.p_trickPlay_gr205.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=111262,_AVG-BANDWIDTH=111262,BANDWIDTH=126362,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=608x342,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/98/c8/5b/98c85b0c-5c43-52fe-7f7f-1a9348da1b1c/P44084385_A1072245703_FF.p_trickPlay_gr207.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=165139,_AVG-BANDWIDTH=165139,BANDWIDTH=184948,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=672x378,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview127/v4/3a/12/84/3a128439-bef5-0f34-760a-7b196e32e9a6/P44084385_A1072245703_FF.p_trickPlay_gr210.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=244174,_AVG-BANDWIDTH=244174,BANDWIDTH=276342,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=768x432,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview122/v4/69/8c/13/698c1307-7593-9218-7917-69cb06a806ed/P44084385_A1072245703_FF.p_trickPlay_gr220.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=325358,_AVG-BANDWIDTH=325358,BANDWIDTH=366977,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=864x486,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview122/v4/7c/88/41/7c884170-d47f-ef34-2a4e-90b27622bc52/P44084385_A1072245703_FF.p_trickPlay_gr230.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=460964,_AVG-BANDWIDTH=460964,BANDWIDTH=521751,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=1024x576,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview122/v4/06/95/38/069538ad-2c60-b295-2ed1-470449503953/P44084385_A1072245703_FF.p_trickPlay_gr240.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=607017,_AVG-BANDWIDTH=607017,BANDWIDTH=678821,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=1280x720,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/7b/6b/3c/7b6b3cd3-2cb1-3bf0-8bc2-8694ce0ff13e/P44084385_A1072245703_FF.p_trickPlay_gr250.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=826786,_AVG-BANDWIDTH=826786,BANDWIDTH=934864,VIDEO-RANGE=SDR,CODECS="avc1.640028",RESOLUTION=1908x1072,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/21/04/e6/2104e604-7c19-b082-6b5f-699aca600cc3/P44084385_A1072245703_FF.p_trickPlay_gr265.iframe.m3u8"
+
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=5562596,_AVG-BANDWIDTH=5562596,BANDWIDTH=7600580,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE,CODECS="avc1.640028,mp4a.40.2",AUDIO="audio-stereo-160",FRAME-RATE=23.976,RESOLUTION=1908x1072,STABLE-VARIANT-ID="844fa619339eca55da5863397dc337cb005b2ed2172b0cde2961f83e2d1b1e7c"
+https://hls.itunes.apple.com/itunes-assets/VideoPreview122/v4/38/32/ef/3832efb8-50ff-58f3-e406-ead4b189377c/P44084385_A1072245703_FF.p_video_gr280.m3u8
+
+#44084385 video moviePreviews external es (es-ES) ES Unknown HD   

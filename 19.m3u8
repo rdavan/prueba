@@ -1,0 +1,30 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.format",VALUE="HD"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.title",VALUE="La película Pokémon: Volcanion y la maravilla mecánica (Doblada)",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.poster",VALUE="https://is2-ssl.mzstatic.com/image/thumb/QCAOA6-HK-LhK-LhM6ehXA/{w}x{h}bb.{f}",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.genre",VALUE="Anime",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.release-date",VALUE="2017-02-27T08:00:00Z"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-tag",VALUE="A/TP"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-system",VALUE="es-movie"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-rank",VALUE="100"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.description",VALUE="Ash se encuentra con el Pokémon singular Volcanion cuando este cae del cielo creando una nube de humo blanco. Una misteriosa fuerza los obliga a permanecer unidos. Volcanion desprecia a los humanos e intenta huir, pero se ve obligado a llevar a Ash consigo en su misión de rescate. Ambos llegan a una ciudad de ruedas y engranajes donde un dirigente corrupto ha robado la invención definitiva: Magearna, el Pokémon Artificial creado 500 años atrás. ¡Y su intención no es otra que usar el misterioso poder de Magearna para hacerse con el control de ese reino mecánico! ¿Podrán Ash y Volcanion trabajar en equipo para rescatar a Magearna? ¡Una de las batallas más espectaculares en la historia de Pokémon está a punto de comenzar!",LANGUAGE="es-es"
+
+#-- es-ES (2) --
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="es-ES",GROUP-ID="audio-stereo-128",NAME="Español (España)",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/14/bb/dc/14bbdc1a-270e-a0a3-6061-6d497abca4d9/P41769474_A1206246720_FF.p_es-ES_audio_gr128.m3u8"
+
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=59428,_AVG-BANDWIDTH=59428,BANDWIDTH=66078,CODECS="avc1.64001f",RESOLUTION=480x268,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/3c/7a/01/3c7a0127-6fd1-72e8-b92c-7304bf907d67/P41769474_A1206246720_FF.p_trickPlay_gr203.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=82248,_AVG-BANDWIDTH=82248,BANDWIDTH=91413,CODECS="avc1.64001f",RESOLUTION=544x304,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/2b/ee/d8/2beed80c-e40d-38e3-93bb-80323c08eed0/P41769474_A1206246720_FF.p_trickPlay_gr205.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=117067,_AVG-BANDWIDTH=117067,BANDWIDTH=130078,CODECS="avc1.64001f",RESOLUTION=608x340,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview122/v4/53/e7/07/53e70729-f804-2c21-24b7-a2a2f022c9a2/P41769474_A1206246720_FF.p_trickPlay_gr207.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=174120,_AVG-BANDWIDTH=174120,BANDWIDTH=193679,CODECS="avc1.64001f",RESOLUTION=672x376,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview122/v4/b2/ff/a4/b2ffa48b-c3eb-6665-c1e8-d7945d36632a/P41769474_A1206246720_FF.p_trickPlay_gr210.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=252277,_AVG-BANDWIDTH=252277,BANDWIDTH=283311,CODECS="avc1.64001f",RESOLUTION=768x430,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview122/v4/cd/d3/9d/cdd39d72-4fe8-5cb9-b599-0fd0e4da5b9a/P41769474_A1206246720_FF.p_trickPlay_gr220.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=343627,_AVG-BANDWIDTH=343627,BANDWIDTH=385391,CODECS="avc1.64001f",RESOLUTION=866x484,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/a1/43/55/a143559b-6993-1fe1-9b94-2ba0c624f354/P41769474_A1206246720_FF.p_trickPlay_gr230.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=480203,_AVG-BANDWIDTH=480203,BANDWIDTH=538726,CODECS="avc1.64001f",RESOLUTION=1026x574,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview122/v4/bf/d0/2d/bfd02d18-e222-615c-b223-26cef1af2e6d/P41769474_A1206246720_FF.p_trickPlay_gr240.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=637478,_AVG-BANDWIDTH=637478,BANDWIDTH=717107,CODECS="avc1.640020",RESOLUTION=1282x718,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/2b/9b/39/2b9b391b-7ce9-619a-7f60-b97668934a3b/P41769474_A1206246720_FF.p_trickPlay_gr250.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=864581,_AVG-BANDWIDTH=864581,BANDWIDTH=1038546,CODECS="avc1.640028",RESOLUTION=1908x1068,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview82/v4/c9/0a/d4/c90ad47b-8e9a-ebc9-38a7-97474aa2d090/P41769474_A1206246720_FF.p_trickPlay_gr265.iframe.m3u8"
+
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=6388683,_AVG-BANDWIDTH=6388683,BANDWIDTH=8463830,CLOSED-CAPTIONS=NONE,CODECS="avc1.640028,mp4a.40.2",AUDIO="audio-stereo-128",FRAME-RATE=23.976,RESOLUTION=1908x1068,STABLE-VARIANT-ID="7e9c98ae80e07dc63d4d94070e782a40615e93bfc331fa758ddeb179cd5b17a7"
+https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/9a/53/f8/9a53f822-84e6-9b10-95aa-25a870b697af/P41769474_A1206246720_FF.p_video_gr280.m3u8
+
+#41769474 video moviePreviews external es (es-ES) ES Unknown HD   

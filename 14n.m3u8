@@ -1,0 +1,30 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.format",VALUE="HD"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.title",VALUE="La película Pokémon Negro: Victini y Reshiram (Doblada)",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.poster",VALUE="https://is1-ssl.mzstatic.com/image/thumb/-3KLwRc2IG9usbNm575UlA/{w}x{h}bb.{f}",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.genre",VALUE="Anime",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.release-date",VALUE="2012-05-28T07:00:00Z"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-tag",VALUE="A/TP"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-system",VALUE="es-movie"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-rank",VALUE="100"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.description",VALUE="Durante su viaje por la región de Teselia, Ash y sus amigos Iris y Millo llegan a Pueblo Eindoak, edificado alrededor de un castillo conocido como la Espada del Valle. Los tres han ido hasta allí para tomar parte en el torneo anual del pueblo, ¡y Ash consigue ganar gracias a la ayuda inesperada del Pokémon singular Victini! Lo cierto es que Victini tiene un vínculo especial con ese lugar...Mucho tiempo atrás, el castillo custodiaba el Reino del Valle, y el rey y Victini protegían a sus habitantes conjuntamente. Pero aquel reino desapareció, dejando tras de sí poderosas reliquias y antiguos Pokémon. Damon, un descendiente de la Tribu del Valle, se ha propuesto restaurar el reino perdido con la ayuda de su Gothitelle. Su cruzada le ha llevado hasta remotas tierras heladas donde ha convencido al Pokémon legendario Zekrom para que lo ayude. Damon tiene la intención de atrapar a Victini y utilizar su poder, pero, cuando su plan se pone en marcha, ¡el desastre se cierne sobre Pueblo Eindoak! ¿Podrá Ash usar el valor de la verdad para convencer al Pokémon legendario Reshiram para que lo ayude a detener a Damon? ¿Podrán salvar a Victini? ¡Se acerca la mayor aventura en la historia de Pokémon!",LANGUAGE="es-es"
+
+#-- es-ES (3) --
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="es-ES",GROUP-ID="audio-stereo-160",NAME="Español (España)",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/dd/d3/35/ddd335d5-63c1-2f70-5a08-687329ece517/P48808332_A1071544474_FF.p_es-ES_audio_gr160.m3u8"
+
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=57763,_AVG-BANDWIDTH=57763,BANDWIDTH=62759,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=480x268,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/91/42/34/914234ec-2364-fe73-79ad-d15cbaf56723/P48808332_A1071544474_FF.p_trickPlay_gr203.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=79261,_AVG-BANDWIDTH=79261,BANDWIDTH=86887,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=544x304,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/4b/25/86/4b2586d2-dd3d-c6d7-c974-cb140dcbc2e5/P48808332_A1071544474_FF.p_trickPlay_gr205.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=113231,_AVG-BANDWIDTH=113231,BANDWIDTH=122543,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=610x340,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/3e/0c/f3/3e0cf33b-b2ba-d023-2aea-be36495d1ae4/P48808332_A1071544474_FF.p_trickPlay_gr207.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=168883,_AVG-BANDWIDTH=168883,BANDWIDTH=185508,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=674x376,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/04/05/46/0405460c-5fc1-b938-f7b2-a67373a84fbd/P48808332_A1071544474_FF.p_trickPlay_gr210.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=244023,_AVG-BANDWIDTH=244023,BANDWIDTH=269505,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=770x430,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/70/62/04/70620450-a998-8845-2887-ad7cdca751a5/P48808332_A1071544474_FF.p_trickPlay_gr220.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=334540,_AVG-BANDWIDTH=334540,BANDWIDTH=364458,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=866x484,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/83/ae/3b/83ae3bc8-72b2-b6ae-35af-9c29ff3d1a11/P48808332_A1071544474_FF.p_trickPlay_gr230.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=466007,_AVG-BANDWIDTH=466007,BANDWIDTH=512797,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=1026x574,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/07/e0/a9/07e0a9e0-8649-8538-c081-a74bd0bde322/P48808332_A1071544474_FF.p_trickPlay_gr240.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=621269,_AVG-BANDWIDTH=621269,BANDWIDTH=683990,VIDEO-RANGE=SDR,CODECS="avc1.640020",RESOLUTION=1284x718,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/b9/24/ac/b924ac82-6337-4999-e201-1e9f60988802/P48808332_A1071544474_FF.p_trickPlay_gr250.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=824344,_AVG-BANDWIDTH=824344,BANDWIDTH=904763,VIDEO-RANGE=SDR,CODECS="avc1.640028",RESOLUTION=1908x1066,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/f7/3c/88/f73c8896-0cf2-0416-4a00-6bd91100cd12/P48808332_A1071544474_FF.p_trickPlay_gr265.iframe.m3u8"
+
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=5830700,_AVG-BANDWIDTH=5830700,BANDWIDTH=7476840,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE,CODECS="avc1.640028,mp4a.40.2",AUDIO="audio-stereo-160",FRAME-RATE=23.976,RESOLUTION=1908x1066,STABLE-VARIANT-ID="e93421db3d42aff347d1572da8474c800332f45baee4e07baddda2baab1ceeef"
+https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/79/9d/6c/799d6c08-5c3c-ec1c-f38c-6926f7520937/P48808332_A1071544474_FF.p_video_gr280.m3u8
+
+#48808332 video moviePreviews external es (es-ES) ES Unknown HD   

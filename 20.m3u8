@@ -1,0 +1,30 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.format",VALUE="HD"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.title",VALUE="la película Pokémon ¡Te elijo a ti! (Doblada)",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.poster",VALUE="https://is1-ssl.mzstatic.com/image/thumb/NbjaitdTIgZxE0vrC7sfpQ/{w}x{h}bb.{f}",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.genre",VALUE="Anime",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.release-date",VALUE="2017-11-04T07:00:00Z"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-tag",VALUE="A/TP"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-system",VALUE="es-movie"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-rank",VALUE="100"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.description",VALUE="Como Ash Ketchum se queda dormido el día de su décimo cumpleaños, termina recibiendo un Pikachu terco en vez del primer Pokémon inicial que quería. Pero, después de un comienzo un tanto complicado, Ash y Pikachu se convierten en buenos amigos y compañeros, y, cuando consiguen vislumbrar volando al Pokémon legendario Ho-Oh, hacen planes para ir a buscarlo juntos, guiados por el Ala Arcoíris que se deja atrás.Los Entrenadores Verónica y Samuel se unen a Ash en su viaje. A lo largo de la travesía, Ash atrapa a un Charmander abandonado, está con un Caterpie hasta que evoluciona a Butterfree, dejándolo después marchar para que siga los dictados de su corazón, y se encuentra con el misterioso Pokémon singular Marshadow. Cuando están a punto de conseguir su objetivo, el arrogante Cruz, el anterior Entrenador de Charmander, se interpone en su camino. ¿Podrán Ash y Pikachu derrotar a este poderoso Entrenador y llegar hasta Ho-Oh tal como prometieron, o terminará aquí su viaje?",LANGUAGE="es-es"
+
+#-- es-ES (3) --
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="es-ES",GROUP-ID="audio-stereo-160",NAME="Español (España)",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/70/3f/06/703f0641-5b6a-2ecc-41a6-a7940fcd2c16/P49893882_A1315920508_FF.p_es-ES_audio_gr160.m3u8"
+
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=59402,_AVG-BANDWIDTH=59402,BANDWIDTH=64771,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=478x268,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/db/32/0a/db320a26-a348-1af0-7789-d66e3a3b07b8/P49893882_A1315920508_FF.p_trickPlay_gr203.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=81705,_AVG-BANDWIDTH=81705,BANDWIDTH=89808,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=542x304,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/85/1d/d8/851dd8eb-f18e-6071-5daf-9ddd2c5958fb/P49893882_A1315920508_FF.p_trickPlay_gr205.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=115635,_AVG-BANDWIDTH=115635,BANDWIDTH=127308,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=606x340,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/12/e1/de/12e1de93-f64c-d162-862a-e5a83fd7a2ee/P49893882_A1315920508_FF.p_trickPlay_gr207.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=173093,_AVG-BANDWIDTH=173093,BANDWIDTH=189662,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=672x376,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/9e/5e/9f/9e5e9f23-abc0-5208-d825-701eb3a7f419/P49893882_A1315920508_FF.p_trickPlay_gr210.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=253109,_AVG-BANDWIDTH=253109,BANDWIDTH=278434,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=768x430,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/89/f7/18/89f71888-ef6e-2ed6-9a8b-81601efce030/P49893882_A1315920508_FF.p_trickPlay_gr220.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=343207,_AVG-BANDWIDTH=343207,BANDWIDTH=373951,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=864x484,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/47/d9/cb/47d9cb7d-5713-b2aa-f36e-bb0d78207cb8/P49893882_A1315920508_FF.p_trickPlay_gr230.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=481452,_AVG-BANDWIDTH=481452,BANDWIDTH=521374,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=1024x574,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/3c/5f/5b/3c5f5bd8-39cb-e322-25e2-c07246d2dc86/P49893882_A1315920508_FF.p_trickPlay_gr240.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=640041,_AVG-BANDWIDTH=640041,BANDWIDTH=702610,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=1280x718,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/02/79/e5/0279e589-1eb8-6f1a-e740-76efa3664b9a/P49893882_A1315920508_FF.p_trickPlay_gr250.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=856344,_AVG-BANDWIDTH=856344,BANDWIDTH=927663,VIDEO-RANGE=SDR,CODECS="avc1.640028",RESOLUTION=1912x1072,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/58/47/e1/5847e19c-e601-abe4-cddc-20a4779c2df0/P49893882_A1315920508_FF.p_trickPlay_gr265.iframe.m3u8"
+
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=6156780,_AVG-BANDWIDTH=6156780,BANDWIDTH=7988728,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE,CODECS="avc1.640028,mp4a.40.2",AUDIO="audio-stereo-160",FRAME-RATE=23.976,RESOLUTION=1912x1072,STABLE-VARIANT-ID="7528b794855655a69e29787adcc09ad01f96f79a8af9db8ce96dd4d61538a322"
+https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/63/a5/24/63a524f9-f1ef-4779-91d5-c2b6870217a4/P49893882_A1315920508_FF.p_video_gr280.m3u8
+
+#49893882 video moviePreviews external es (es-ES) ES Unknown HD   

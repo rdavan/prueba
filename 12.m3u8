@@ -1,0 +1,30 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.format",VALUE="HD"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.title",VALUE="Pokémon: Arceus y la joya de la vida (Doblada)",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.poster",VALUE="https://is2-ssl.mzstatic.com/image/thumb/ZfctENGYadQLHJE5876R2g/{w}x{h}bb.{f}",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.genre",VALUE="Anime",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.release-date",VALUE="2010-04-04T07:00:00Z"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-tag",VALUE="A/TP"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-system",VALUE="es-movie"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-rank",VALUE="100"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.description",VALUE="Continúa la lucha del tiempo y el espacio, de mundos distorsionados y dimensiones alternativas, ¡una vez más con Ash y sus amigos atrapados en medio de todo!Pueblo Michina está en el centro de la acción. El pueblo tiene una larga historia y un accidentado pasado en relación con el poderoso Arceus. Después de que Arceus concediese a los habitantes parte de su poder como la Joya de Vida, ¡estos traicionaron al singular Pokémon!Ash y sus amigos, acompañados por Sheena, su nueva compañera, viajan en el tiempo con la ayuda de Dialga para corregir los errores de los ancestros del pueblo, antes de que el mundo sucumba bajo el poder de la furia de Arceus. ¿Realmente traicionaron los ancestros de Sheena a Arceus? ¿Podrán nuestros héroes corregir los errores del pasado?",LANGUAGE="es-es"
+
+#-- es-ES (3) --
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="es-ES",GROUP-ID="audio-stereo-160",NAME="Español (España)",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview122/v4/f8/4d/fe/f84dfe7b-66c7-85a1-4602-ba77f1fd97b6/P44086683_A1070466219_FF.p_es-ES_audio_gr160.m3u8"
+
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=58410,_AVG-BANDWIDTH=58410,BANDWIDTH=62960,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=488x266,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview122/v4/df/b0/8d/dfb08df8-fa81-c1fa-5ef5-23d000f7d0d7/P44086683_A1070466219_FF.p_trickPlay_gr203.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=81133,_AVG-BANDWIDTH=81133,BANDWIDTH=86599,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=552x300,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/2b/91/8f/2b918f47-0485-e948-e88b-236dd5db9562/P44086683_A1070466219_FF.p_trickPlay_gr205.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=114645,_AVG-BANDWIDTH=114645,BANDWIDTH=124118,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=618x336,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/72/60/28/7260284e-ad27-f601-1c9c-886ada3bae4b/P44086683_A1070466219_FF.p_trickPlay_gr207.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=169501,_AVG-BANDWIDTH=169501,BANDWIDTH=185047,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=684x372,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/0f/12/af/0f12af48-e27a-4c34-2025-023a721e9448/P44086683_A1070466219_FF.p_trickPlay_gr210.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=248263,_AVG-BANDWIDTH=248263,BANDWIDTH=268733,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=780x424,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview122/v4/98/7b/85/987b8501-f6cb-5d5a-5520-da5b34a7f383/P44086683_A1070466219_FF.p_trickPlay_gr220.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=340115,_AVG-BANDWIDTH=340115,BANDWIDTH=373089,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=878x478,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview122/v4/7b/31/fd/7b31fd09-06a4-c1e5-ada8-05bd08e3c28e/P44086683_A1070466219_FF.p_trickPlay_gr230.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=471303,_AVG-BANDWIDTH=471303,BANDWIDTH=509985,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=1040x566,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview122/v4/5c/64/58/5c645866-977a-9933-136f-ef4d6157f61a/P44086683_A1070466219_FF.p_trickPlay_gr240.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=625471,_AVG-BANDWIDTH=625471,BANDWIDTH=682259,VIDEO-RANGE=SDR,CODECS="avc1.640020",RESOLUTION=1302x708,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/81/68/94/81689464-8791-dc70-a695-60ee0fc1eb76/P44086683_A1070466219_FF.p_trickPlay_gr250.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=854792,_AVG-BANDWIDTH=854792,BANDWIDTH=933824,VIDEO-RANGE=SDR,CODECS="avc1.640028",RESOLUTION=1912x1040,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview122/v4/f8/3d/34/f83d348d-52bb-7ee6-2421-3f2a6bb724bf/P44086683_A1070466219_FF.p_trickPlay_gr265.iframe.m3u8"
+
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=6599801,_AVG-BANDWIDTH=6599801,BANDWIDTH=7974755,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE,CODECS="avc1.640028,mp4a.40.2",AUDIO="audio-stereo-160",FRAME-RATE=23.976,RESOLUTION=1912x1040,STABLE-VARIANT-ID="6647a1a3bbbd522305d6a90a173299517ab7226e4c518208c3d36a505751e83d"
+https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/15/39/d2/1539d20a-6245-adff-1a3c-14207dc791d6/P44086683_A1070466219_FF.p_video_gr280.m3u8
+
+#44086683 video moviePreviews external es (es-ES) ES Unknown HD   

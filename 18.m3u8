@@ -1,0 +1,30 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.format",VALUE="HD"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.title",VALUE="La película Pokémon: Hoopa y un duelo histórico (Doblada)",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.poster",VALUE="https://is4-ssl.mzstatic.com/image/thumb/aHT8oblr7ionMDEQmPynTQ/{w}x{h}bb.{f}",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.genre",VALUE="Anime",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.release-date",VALUE="2016-01-19T08:00:00Z"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-tag",VALUE="A/TP"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-system",VALUE="es-movie"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-rank",VALUE="100"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.description",VALUE="En una ciudad en el desierto al lado del mar, Ash, Pikachu y sus amigos se encuentran con el Pokémon singular Hoopa, que tiene la habilidad de hacerse con todo lo que se le antoja, incluidos personas y Pokémon, con sus mágicos anillos. Al pequeño Pokémon Travesura le gusta usar su talento para hacerle trucos inofensivos a la gente, pero, cuando su verdadero poder es liberado, pierde el control y se convierte en el imponente y aterrador Hoopa Desatado. Mucho tiempo atrás, un valiente héroe apaciguó su furia sellando su poder en una vasija muy especial. Pero, ahora que la vasija ha sido descubierta de nuevo, ¡Hoopa debe enfrentarse a su mayor temor! ¿Podrá Ash ayudar a su nuevo amigo a que supere su lado oscuro... o terminará el peligroso secreto desembocando en un duelo de leyendas?",LANGUAGE="es-es"
+
+#-- es-ES (3) --
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="es-ES",GROUP-ID="audio-stereo-160",NAME="Español (España)",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/06/d2/c0/06d2c0f9-f271-4cbd-8398-deecbe7537a9/P48806797_A1071315457_FF.p_es-ES_audio_gr160.m3u8"
+
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=58279,_AVG-BANDWIDTH=58279,BANDWIDTH=63112,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=482x270,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/2a/25/23/2a2523ea-15a6-5398-9e45-ccaba93087fd/P48806797_A1071315457_FF.p_trickPlay_gr203.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=80820,_AVG-BANDWIDTH=80820,BANDWIDTH=88993,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=546x306,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/81/e5/e0/81e5e021-8278-b525-df4d-de5102034334/P48806797_A1071315457_FF.p_trickPlay_gr205.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=114361,_AVG-BANDWIDTH=114361,BANDWIDTH=123326,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=606x340,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/b0/2d/08/b02d0895-3d78-5d75-05c5-70296e47cda6/P48806797_A1071315457_FF.p_trickPlay_gr207.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=170740,_AVG-BANDWIDTH=170740,BANDWIDTH=191091,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=672x376,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/4a/c6/a9/4ac6a9f6-b7a1-adca-f273-c2fa9815d565/P48806797_A1071315457_FF.p_trickPlay_gr210.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=248849,_AVG-BANDWIDTH=248849,BANDWIDTH=274751,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=768x430,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/04/d2/b6/04d2b6e3-e88e-df83-56c2-afb57379af52/P48806797_A1071315457_FF.p_trickPlay_gr220.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=336677,_AVG-BANDWIDTH=336677,BANDWIDTH=373990,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=864x484,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/fc/eb/17/fceb1781-9149-bf2d-352e-e846515172f7/P48806797_A1071315457_FF.p_trickPlay_gr230.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=467546,_AVG-BANDWIDTH=467546,BANDWIDTH=510124,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=1024x574,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/d8/cb/93/d8cb93da-eb06-fe6b-b80e-02b355b1e4d8/P48806797_A1071315457_FF.p_trickPlay_gr240.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=627220,_AVG-BANDWIDTH=627220,BANDWIDTH=691239,VIDEO-RANGE=SDR,CODECS="avc1.640020",RESOLUTION=1282x718,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/7b/f5/db/7bf5dba1-a6cb-1306-9731-b884c7137f17/P48806797_A1071315457_FF.p_trickPlay_gr250.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=859895,_AVG-BANDWIDTH=859895,BANDWIDTH=946006,VIDEO-RANGE=SDR,CODECS="avc1.640028",RESOLUTION=1912x1072,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/e4/46/0f/e4460f5f-4404-843e-8c9f-86159c7449a0/P48806797_A1071315457_FF.p_trickPlay_gr265.iframe.m3u8"
+
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=5916814,_AVG-BANDWIDTH=5916814,BANDWIDTH=8262860,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE,CODECS="avc1.640028,mp4a.40.2",AUDIO="audio-stereo-160",FRAME-RATE=23.976,RESOLUTION=1912x1072,STABLE-VARIANT-ID="2a1081b0aa4052a88536362657ef79d1f5116b1dc51d69d90d3d59c1861e19af"
+https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/2e/b5/25/2eb525ec-4880-4bff-f80d-f90138f97b9d/P48806797_A1071315457_FF.p_video_gr280.m3u8
+
+#48806797 video moviePreviews external es (es-ES) ES Unknown HD   

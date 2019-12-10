@@ -1,0 +1,30 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.format",VALUE="HD"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.title",VALUE="La Película Pokémon: Diancie y la crisálida de la Destrucción (Doblada)",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.poster",VALUE="https://is5-ssl.mzstatic.com/image/thumb/nFHbOMt9mH25dm3TeMwN-A/{w}x{h}bb.{f}",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.genre",VALUE="Anime",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.release-date",VALUE="2015-11-17T08:00:00Z"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-tag",VALUE="A/TP"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-system",VALUE="es-movie"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-rank",VALUE="100"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.description",VALUE="En el subterráneo Dominio Diamante, donde muchos Carbink viven, el Pokémon singular Diancie es quien está al mando. El Diamante Corazón, que sostiene el reino, está empezando a desmoronarse, y Diancie no es todavía lo suficientemente fuerte para crear uno nuevo. Mientras busca la ayuda del Pokémon legendario Xerneas, Diancie se encuentra con un grupo de ladrones que quieren hacerse con su poder para crear diamantes y que despiertan al Pokémon legendario Yveltal, que dormía en su crisálida. ¿Podrán Ash y sus amigos ayudar a Diancie a descubrir su verdadero poder, detener la furia de Yveltal y salvar el Dominio Diamante?",LANGUAGE="es-es"
+
+#-- es-ES (3) --
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="es-ES",GROUP-ID="audio-stereo-160",NAME="Español (España)",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/c8/a2/f7/c8a2f708-6d1d-c5d4-56ef-486477074197/P48787206_A1056456396_FF.p_es-ES_audio_gr160.m3u8"
+
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=56590,_AVG-BANDWIDTH=56590,BANDWIDTH=61793,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=482x270,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/a0/25/62/a0256219-ec11-0275-d46f-d6ef5aabc79e/P48787206_A1056456396_FF.p_trickPlay_gr203.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=79552,_AVG-BANDWIDTH=79552,BANDWIDTH=87217,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=546x306,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/63/c6/7b/63c67be7-e461-80b7-e4ea-9679cd0c5d02/P48787206_A1056456396_FF.p_trickPlay_gr205.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=112181,_AVG-BANDWIDTH=112181,BANDWIDTH=122987,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=606x340,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/58/5f/77/585f77ac-aa8a-064d-d19c-92aeb63c45c5/P48787206_A1056456396_FF.p_trickPlay_gr207.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=165826,_AVG-BANDWIDTH=165826,BANDWIDTH=182010,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=672x376,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/bf/96/85/bf96858d-8a84-61c5-f043-6205ce34f495/P48787206_A1056456396_FF.p_trickPlay_gr210.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=243860,_AVG-BANDWIDTH=243860,BANDWIDTH=270018,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=768x430,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/43/b8/8a/43b88a5d-e8e9-97f8-5b11-6bf2e465ff4a/P48787206_A1056456396_FF.p_trickPlay_gr220.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=325216,_AVG-BANDWIDTH=325216,BANDWIDTH=361936,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=864x484,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/61/69/b0/6169b003-44cb-8046-715b-2dc68bac4164/P48787206_A1056456396_FF.p_trickPlay_gr230.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=461160,_AVG-BANDWIDTH=461160,BANDWIDTH=504565,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=1024x574,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/57/8c/10/578c10f6-00c6-b719-75b4-162e0376f908/P48787206_A1056456396_FF.p_trickPlay_gr240.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=609416,_AVG-BANDWIDTH=609416,BANDWIDTH=680751,VIDEO-RANGE=SDR,CODECS="avc1.640020",RESOLUTION=1282x718,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/b3/6e/2e/b36e2ecc-c384-80f4-161b-b321f89e463f/P48787206_A1056456396_FF.p_trickPlay_gr250.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=837242,_AVG-BANDWIDTH=837242,BANDWIDTH=923340,VIDEO-RANGE=SDR,CODECS="avc1.640028",RESOLUTION=1912x1072,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/e7/24/c2/e724c268-11f3-bf81-8a23-8ff235639564/P48787206_A1056456396_FF.p_trickPlay_gr265.iframe.m3u8"
+
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=6087099,_AVG-BANDWIDTH=6087099,BANDWIDTH=7021077,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE,CODECS="avc1.640028,mp4a.40.2",AUDIO="audio-stereo-160",FRAME-RATE=23.976,RESOLUTION=1912x1072,STABLE-VARIANT-ID="f0af7756777c287339f6fa19d40f751017aaff3dd84f014dd9d5fe8e66fc6d2e"
+https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/b0/a9/99/b0a99953-88d8-8ce0-f055-d748c70ad77a/P48787206_A1056456396_FF.p_video_gr280.m3u8
+
+#48787206 video moviePreviews external es (es-ES) ES Unknown HD   

@@ -1,0 +1,30 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.format",VALUE="HD"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.title",VALUE="Pokémon: Giratina y el defensor de los cielos (Doblada)",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.poster",VALUE="https://is4-ssl.mzstatic.com/image/thumb/pl3PXCaC12hNamRKkp7goA/{w}x{h}bb.{f}",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.genre",VALUE="Anime",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.release-date",VALUE="2009-05-01T07:00:00Z"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-tag",VALUE="A/TP"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-system",VALUE="es-movie"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-rank",VALUE="100"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.description",VALUE="Giratina es el único Pokémon que habita en el misterioso Mundo Inverso. Enfurecido cuando Palkia y Dialga trastocan el espacio y el tiempo, arrastra a Dialga a este mundo para un combate, pero el conflicto es interrumpido por Shaymin, el pequeño y singular Pokémon Gratitud. Shaymin está cansado, así que deja el Mundo Inverso y pide ayuda a Ash y a sus amigos para que le ayuden en su viaje.Nuestros héroes aceptan y entran en el Mundo Inverso, donde conocen a Newton Graceland, un investigador Pokémon. Su antiguo ayudante, Zero, pretende utilizar el poder de Giratina para gobernar el Mundo Inverso, ¡aunque esto implique destruir el mundo real!¿Podrán nuestros héroes frustrar sus planes y proteger ambos mundos? ¿Podrá Giratina resolver sus diferencias con Dialga? ¿Y qué aprenderán Ash y sus amigos sobre Shaymin?",LANGUAGE="es-es"
+
+#-- es-ES (3) --
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="es-ES",GROUP-ID="audio-stereo-160",NAME="Español (España)",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/fd/cd/07/fdcd0721-2f97-64df-b726-16d5a753bfa5/P48807303_A1070703563_FF.p_es-ES_audio_gr160.m3u8"
+
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=57635,_AVG-BANDWIDTH=57635,BANDWIDTH=63714,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=488x266,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/2d/1a/67/2d1a67ee-2c8a-2010-cc68-9efcc679380f/P48807303_A1070703563_FF.p_trickPlay_gr203.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=78885,_AVG-BANDWIDTH=78885,BANDWIDTH=86443,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=550x300,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/68/e9/19/68e919d7-e727-2706-3493-e6a7dd421c4c/P48807303_A1070703563_FF.p_trickPlay_gr205.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=112188,_AVG-BANDWIDTH=112188,BANDWIDTH=122324,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=616x336,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/88/a7/fc/88a7fce0-3f34-c334-055e-764d48201602/P48807303_A1070703563_FF.p_trickPlay_gr207.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=166991,_AVG-BANDWIDTH=166991,BANDWIDTH=185388,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=682x372,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/81/58/31/815831d3-14f4-3b3a-86fd-a659b5a62006/P48807303_A1070703563_FF.p_trickPlay_gr210.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=247052,_AVG-BANDWIDTH=247052,BANDWIDTH=272392,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=778x424,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/dc/66/d0/dc66d08f-768d-9fde-367a-21d84f10ffee/P48807303_A1070703563_FF.p_trickPlay_gr220.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=334652,_AVG-BANDWIDTH=334652,BANDWIDTH=373911,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=876x478,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview111/v4/8c/2a/05/8c2a052e-900e-818a-af18-89d559d5417d/P48807303_A1070703563_FF.p_trickPlay_gr230.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=464870,_AVG-BANDWIDTH=464870,BANDWIDTH=526724,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=1038x566,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/de/32/55/de3255d2-09dd-797c-03f6-a4c8ce420bc5/P48807303_A1070703563_FF.p_trickPlay_gr240.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=610911,_AVG-BANDWIDTH=610911,BANDWIDTH=695401,VIDEO-RANGE=SDR,CODECS="avc1.640020",RESOLUTION=1300x708,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/86/86/7b/86867bfb-0bd2-a3c3-66fb-3a35f61800b2/P48807303_A1070703563_FF.p_trickPlay_gr250.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=829907,_AVG-BANDWIDTH=829907,BANDWIDTH=921996,VIDEO-RANGE=SDR,CODECS="avc1.640028",RESOLUTION=1908x1040,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/dc/95/2a/dc952a7c-baa1-5aa4-484c-c1dadab3dc6a/P48807303_A1070703563_FF.p_trickPlay_gr265.iframe.m3u8"
+
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=6280088,_AVG-BANDWIDTH=6280088,BANDWIDTH=8104569,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE,CODECS="avc1.640028,mp4a.40.2",AUDIO="audio-stereo-160",FRAME-RATE=23.976,RESOLUTION=1908x1040,STABLE-VARIANT-ID="151b6c58d32e81f8d6932ef97734f8d4c952ce88e9f2a92d8d82994695910861"
+https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/6d/5a/e3/6d5ae335-3687-b003-3521-c0df2c2e9aef/P48807303_A1070703563_FF.p_video_gr280.m3u8
+
+#48807303 video moviePreviews external es (es-ES) ES Unknown HD   

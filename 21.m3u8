@@ -1,0 +1,30 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.format",VALUE="HD"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.title",VALUE="la película Pokémon El poder de todos",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.poster",VALUE="https://is1-ssl.mzstatic.com/image/thumb/YO21NwjtsyV525nSrFGOyg/{w}x{h}bb.{f}",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.genre",VALUE="Anime",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.release-date",VALUE="2018-11-23T08:00:00Z"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-tag",VALUE="A/TP"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-system",VALUE="es-movie"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-rank",VALUE="100"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.description",VALUE="Una joven atleta cuyos días de carreras puede que formen parte de su pasado, un mentiroso compulsivo, un investigador reservado, una anciana arisca y una pequeña con un gran secreto; lo único que todos ellos tienen en común es el Festival del Viento anual de Ciudad Mistral. En el festival se celebra al Pokémon legendario Lugia, que hace que sople el viento que da energía a esta ciudad al lado del mar. Cuando una serie de incidentes amenazan con poner en peligro no solo el festival, sino también a todas las personas y los Pokémon de Ciudad Mistral, ¡Ash y Pikachu no podrán ellos solos salvarlos a todos! ¿Podrán todos ellos dejar a un lado sus diferencias y trabajar juntos? ¿O acabará todo siendo destruido?",LANGUAGE="es-es"
+
+#-- es-ES (3) --
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="es-ES",GROUP-ID="audio-stereo-160",NAME="Español (España)",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/4b/e8/38/4be8380e-23f4-0f13-d81d-32ed99eba68f/P56548209_A1445003645_FF.p_es-ES_audio_gr160-.m3u8"
+
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=57279,_AVG-BANDWIDTH=57279,BANDWIDTH=63615,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=480x268,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/6b/d3/42/6bd342ba-fbd0-c11a-78cd-9a346206fd39/P56548209_A1445003645_FF.p_trickPlay_gr203_sdr_-.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=79663,_AVG-BANDWIDTH=79663,BANDWIDTH=89305,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=544x304,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/7d/06/a3/7d06a373-71f8-8b55-e98c-1c473b6d7c2b/P56548209_A1445003645_FF.p_trickPlay_gr205_sdr_-.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=112918,_AVG-BANDWIDTH=112918,BANDWIDTH=125889,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=608x340,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/ac/c9/59/acc959fa-8ac6-3db8-3374-5906ebfc1bb1/P56548209_A1445003645_FF.p_trickPlay_gr207_sdr_-.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=167176,_AVG-BANDWIDTH=167176,BANDWIDTH=189915,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=672x376,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/a9/b2/f1/a9b2f129-dbc5-13b0-3727-1fe8cf8fcf5d/P56548209_A1445003645_FF.p_trickPlay_gr210_sdr_-.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=240698,_AVG-BANDWIDTH=240698,BANDWIDTH=272192,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=768x430,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/39/a9/c6/39a9c611-19f3-88c0-1791-abf799deb3ee/P56548209_A1445003645_FF.p_trickPlay_gr220_sdr_-.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=332698,_AVG-BANDWIDTH=332698,BANDWIDTH=367041,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=864x484,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/37/08/6e/37086e2f-b449-d0fb-e224-599869e56e84/P56548209_A1445003645_FF.p_trickPlay_gr230_sdr_-.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=462175,_AVG-BANDWIDTH=462175,BANDWIDTH=513011,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=1026x574,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/dd/de/0c/ddde0c3b-9637-dabc-3558-0eac295cbe24/P56548209_A1445003645_FF.p_trickPlay_gr240_sdr_-.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=613671,_AVG-BANDWIDTH=613671,BANDWIDTH=684856,VIDEO-RANGE=SDR,CODECS="avc1.640020",RESOLUTION=1282x718,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/bc/df/8f/bcdf8fca-e3cf-3ad7-d78a-12991469f52b/P56548209_A1445003645_FF.p_trickPlay_gr250_sdr_-.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=820768,_AVG-BANDWIDTH=820768,BANDWIDTH=935236,VIDEO-RANGE=SDR,CODECS="avc1.640028",RESOLUTION=1908x1068,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/e7/63/c7/e763c71c-453b-1c42-1c5e-f3cd16f2d7d4/P56548209_A1445003645_FF.p_trickPlay_gr265_sdr_-.iframe.m3u8"
+
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=6850012,_AVG-BANDWIDTH=6850012,BANDWIDTH=9520807,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE,CODECS="avc1.640028,mp4a.40.2",AUDIO="audio-stereo-160",FRAME-RATE=23.976,RESOLUTION=1908x1068,STABLE-VARIANT-ID="72f0b6c8043d41622a095c18451933bddadc7cfb0cfac944b4bf241c2aed138d"
+https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/ad/12/ef/ad12ef1b-61ed-2e34-9ea9-fcbbe389f8b1/P56548209_A1445003645_FF.p_video_gr280_sdr_-.m3u8
+
+#56548209 video moviePreviews external es (es-ES) ES Unknown HD   

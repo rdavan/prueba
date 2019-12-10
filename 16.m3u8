@@ -1,0 +1,30 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.format",VALUE="HD"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.title",VALUE="La película Pokémon: Genesect y el Despertar de una Leyenda (Doblada)",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.poster",VALUE="https://is2-ssl.mzstatic.com/image/thumb/LnhwESiq9RC8VefmJRP8sw/{w}x{h}bb.{f}",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.genre",VALUE="Anime",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.release-date",VALUE="2013-10-19T07:00:00Z"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-tag",VALUE="A/TP"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-system",VALUE="es-movie"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-rank",VALUE="100"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.description",VALUE="Un amplio hábitat Pokémon en medio del ajetreo de la gran ciudad parece el perfecto nuevo hogar para un grupo de cinco Genesect. Sin embargo, la llegada de estos singulares Pokémon rápidamente se convierte en un problema: su nido amenaza el suministro de electricidad de la ciudad, y no paran de atacar a cualquiera que se acerque allí. Además, han atraído la atención del legendario Pokémon Mewtwo, que simpatiza con ellos porque su origen también fue fruto de la manipulación del hombre. Su líder, un Genesect rojo, no confía en Mewtwo, y el enfrentamiento entre ellos se les va de las manos. ¿Podrán Ash y sus amigos parar a estos dos poderosos Pokémon antes de que destruyan la ciudad?",LANGUAGE="es-es"
+
+#-- es-ES (3) --
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="es-ES",GROUP-ID="audio-stereo-160",NAME="Español (España)",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/17/e5/89/17e589ac-ad83-2bc8-276d-d3ddf12dd461/P48808444_A1072244852_FF.p_es-ES_audio_gr160.m3u8"
+
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=56077,_AVG-BANDWIDTH=56077,BANDWIDTH=63289,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=480x268,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/46/10/a6/4610a640-5796-459c-5b5c-1a2beda303a0/P48808444_A1072244852_FF.p_trickPlay_gr203.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=76676,_AVG-BANDWIDTH=76676,BANDWIDTH=87062,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=544x304,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/ba/1e/c0/ba1ec0b9-bf96-75f5-fcdd-54bfc6b96898/P48808444_A1072244852_FF.p_trickPlay_gr205.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=108617,_AVG-BANDWIDTH=108617,BANDWIDTH=123445,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=608x340,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/ee/73/2b/ee732ba9-49f4-8119-434c-cd80677f81ee/P48808444_A1072244852_FF.p_trickPlay_gr207.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=163443,_AVG-BANDWIDTH=163443,BANDWIDTH=186641,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=672x376,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/35/60/e8/3560e84c-d621-3cae-da89-c2937c10002e/P48808444_A1072244852_FF.p_trickPlay_gr210.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=236537,_AVG-BANDWIDTH=236537,BANDWIDTH=267690,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=768x430,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/b0/01/9f/b0019f07-a42e-4507-ec19-b6dfb5d24e95/P48808444_A1072244852_FF.p_trickPlay_gr220.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=322339,_AVG-BANDWIDTH=322339,BANDWIDTH=365915,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=866x484,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/47/f5/58/47f558a8-325e-5df4-035c-34faff96c4bb/P48808444_A1072244852_FF.p_trickPlay_gr230.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=451585,_AVG-BANDWIDTH=451585,BANDWIDTH=509504,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=1026x574,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/9b/03/26/9b032620-86bc-0a0c-b1f0-e63ca020a7d6/P48808444_A1072244852_FF.p_trickPlay_gr240.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=601735,_AVG-BANDWIDTH=601735,BANDWIDTH=674538,VIDEO-RANGE=SDR,CODECS="avc1.640020",RESOLUTION=1282x718,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/f4/cd/d0/f4cdd0ca-900d-d67c-aaf3-1c9d9b34c70f/P48808444_A1072244852_FF.p_trickPlay_gr250.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=808953,_AVG-BANDWIDTH=808953,BANDWIDTH=921606,VIDEO-RANGE=SDR,CODECS="avc1.640028",RESOLUTION=1908x1068,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/3e/78/06/3e780660-717a-905f-4c4c-a4ca60b38567/P48808444_A1072244852_FF.p_trickPlay_gr265.iframe.m3u8"
+
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=6301949,_AVG-BANDWIDTH=6301949,BANDWIDTH=7920718,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE,CODECS="avc1.640028,mp4a.40.2",AUDIO="audio-stereo-160",FRAME-RATE=23.976,RESOLUTION=1908x1068,STABLE-VARIANT-ID="a09d08e03603e02abfdc892b1ea638ada63cab32367459b86ceebb09af33a0b3"
+https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/cd/24/5c/cd245c85-4c9c-9d37-107f-203b0427d5c5/P48808444_A1072244852_FF.p_video_gr280.m3u8
+
+#48808444 video moviePreviews external es (es-ES) ES Unknown HD   
