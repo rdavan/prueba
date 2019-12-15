@@ -1,0 +1,30 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.format",VALUE="HD"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.title",VALUE="Pokémon: Zoroark — El maestro de ilusiones (Doblada)",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.poster",VALUE="https://is5-ssl.mzstatic.com/image/thumb/0DMIJJt_aJpA7pYWo0rJ5g/{w}x{h}bb.{f}",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.genre",VALUE="Anime",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.release-date",VALUE="2011-02-26T08:00:00Z"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-tag",VALUE="A/TP"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-system",VALUE="es-movie"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-rank",VALUE="100"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.description",VALUE="Ash y sus amigos viajan a Ciudad Corona para unirse a la multitud que va a ver la Copa Mundial de Balfut Pokémon, pero hay misteriosas fuerzas en marcha que podrían traerles incalculables desventuras a todos ellos. ¿Qué secreto guarda Zorua, un Pokémon del que se hacen amigos por el camino? ¿Por qué el poderoso Zoroark está aterrorizando a toda la ciudad? ¿Y qué significa la aparición de los Pokémon Legendarios: Entei, Raikou y Suicune? ¿Qué ha traído a Celebi de vuelta a la ciudad en este preciso momento por primera vez en veinte años?  ¿Y qué ocurrirá cuando los caminos de todos ellos se unan en un tiempo y un lugar?",LANGUAGE="es-es"
+
+#-- es-ES (3) --
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="es-ES",GROUP-ID="audio-stereo-160",NAME="Español (España)",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/b2/4f/27/b24f27b9-b94d-ba6c-6869-c1ade94a9eaa/P48806929_A1071385272_FF.p_es-ES_audio_gr160.m3u8"
+
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=58218,_AVG-BANDWIDTH=58218,BANDWIDTH=62679,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=488x266,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/3a/15/cf/3a15cf2f-f36c-6f12-eb3b-10779feb19ea/P48806929_A1071385272_FF.p_trickPlay_gr203.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=80376,_AVG-BANDWIDTH=80376,BANDWIDTH=87057,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=550x300,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/45/e9/90/45e9900f-bb82-8c16-5796-78ef629d1c34/P48806929_A1071385272_FF.p_trickPlay_gr205.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=114628,_AVG-BANDWIDTH=114628,BANDWIDTH=124956,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=616x336,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/11/1c/f2/111cf274-b2a6-4720-b4c8-99588dca67e5/P48806929_A1071385272_FF.p_trickPlay_gr207.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=170531,_AVG-BANDWIDTH=170531,BANDWIDTH=187909,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=682x372,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/2f/1d/a9/2f1da96a-6833-2b8a-0325-9952a874c2ce/P48806929_A1071385272_FF.p_trickPlay_gr210.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=248833,_AVG-BANDWIDTH=248833,BANDWIDTH=270410,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=778x424,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/b6/b9/7d/b6b97da9-af28-5f95-62cd-b18906f7d070/P48806929_A1071385272_FF.p_trickPlay_gr220.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=335949,_AVG-BANDWIDTH=335949,BANDWIDTH=368923,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=876x478,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/57/93/b5/5793b5f0-2599-7470-7385-04433e86448f/P48806929_A1071385272_FF.p_trickPlay_gr230.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=472777,_AVG-BANDWIDTH=472777,BANDWIDTH=518723,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=1038x566,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/66/77/9b/66779b97-c09e-5427-717d-89a8f7aeefa5/P48806929_A1071385272_FF.p_trickPlay_gr240.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=630127,_AVG-BANDWIDTH=630127,BANDWIDTH=697588,VIDEO-RANGE=SDR,CODECS="avc1.640020",RESOLUTION=1300x708,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/af/60/f5/af60f52a-68b9-82a8-52fd-42848b5b1d60/P48806929_A1071385272_FF.p_trickPlay_gr250.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=851854,_AVG-BANDWIDTH=851854,BANDWIDTH=932269,VIDEO-RANGE=SDR,CODECS="avc1.640028",RESOLUTION=1908x1040,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/72/50/26/7250267a-d677-5383-d64c-f4e7d6e1478a/P48806929_A1071385272_FF.p_trickPlay_gr265.iframe.m3u8"
+
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=6299825,_AVG-BANDWIDTH=6299825,BANDWIDTH=9218084,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE,CODECS="avc1.640028,mp4a.40.2",AUDIO="audio-stereo-160",FRAME-RATE=23.976,RESOLUTION=1908x1040,STABLE-VARIANT-ID="f48c46bdc995fc86b85d5174f57a89eb6858bf9376a0f6bd045f1a8e8d2e3776"
+https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/67/58/0c/67580cce-4aa1-04b1-6d23-93a6eb80cc60/P48806929_A1071385272_FF.p_video_gr280.m3u8
+
+#48806929 video moviePreviews external es (es-ES) ES Unknown HD   

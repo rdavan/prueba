@@ -1,0 +1,30 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.format",VALUE="HD"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.title",VALUE="La película Pokémon: Kyurem vs. el Espadachín Místico (Doblada)",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.poster",VALUE="https://is3-ssl.mzstatic.com/image/thumb/RsVqng07ExP3wuFyQFEWeQ/{w}x{h}bb.{f}",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.genre",VALUE="Anime",LANGUAGE="es-es"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.release-date",VALUE="2013-09-14T07:00:00Z"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-tag",VALUE="A/TP"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-system",VALUE="es-movie"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.rating-rank",VALUE="100"
+#EXT-X-SESSION-DATA:DATA-ID="com.apple.hls.description",VALUE="Durante un viaje en tren, Ash y sus amigos encuentran herido a un Pokémon que desconocen. Mientras intentan ayudar, ¡el tren es atacado por el legendario Kyurem! Ash y compañía ponen a salvo al Pokémon desconocido, y se enteran entonces de su historia… El Pokémon singular Keldeo tiene como misión rescatar de las garras heladas de Kyurem a sus amigos Cobalion, Terrakion y Virizion, los Espadachines Místicos. Pero Kyurem tiene otros planes en mente, ¡y las cosas empiezan a pintar mal cuando se transforma en Kyurem Negro y Kyurem Blanco para hacerse más fuerte! ¿Podrá Keldeo encontrar el coraje para enfrentarse a este peligro?",LANGUAGE="es-es"
+
+#-- es-ES (3) --
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="es-ES",GROUP-ID="audio-stereo-160",NAME="Español (España)",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/05/6f/4e/056f4e2e-3851-dbe5-da9b-3304ca9022c7/P48809751_A1072190364_FF.p_es-ES_audio_gr160.m3u8"
+
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=58789,_AVG-BANDWIDTH=58789,BANDWIDTH=63097,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=480x268,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/6b/a4/4b/6ba44b2d-9a25-0c49-86fd-2ac954316cec/P48809751_A1072190364_FF.p_trickPlay_gr203.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=80612,_AVG-BANDWIDTH=80612,BANDWIDTH=86744,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=544x304,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/0b/8c/f9/0b8cf9c4-7c02-ba5e-e01b-dac8fc4bffa9/P48809751_A1072190364_FF.p_trickPlay_gr205.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=113884,_AVG-BANDWIDTH=113884,BANDWIDTH=122336,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=608x340,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/41/78/3a/41783ab7-ffe3-e1ff-2626-8f2828f63b11/P48809751_A1072190364_FF.p_trickPlay_gr207.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=169879,_AVG-BANDWIDTH=169879,BANDWIDTH=184717,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=672x376,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/87/fd/14/87fd148d-bfb1-a047-9d0c-9888472ad14f/P48809751_A1072190364_FF.p_trickPlay_gr210.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=246118,_AVG-BANDWIDTH=246118,BANDWIDTH=264757,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=768x430,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/3a/06/bb/3a06bbaa-5774-058f-fe46-1bb990436057/P48809751_A1072190364_FF.p_trickPlay_gr220.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=341237,_AVG-BANDWIDTH=341237,BANDWIDTH=365583,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=866x484,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/45/78/a1/4578a1a3-c4da-3975-93af-99591143c2fe/P48809751_A1072190364_FF.p_trickPlay_gr230.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=475462,_AVG-BANDWIDTH=475462,BANDWIDTH=516470,VIDEO-RANGE=SDR,CODECS="avc1.64001f",RESOLUTION=1026x574,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/1e/dd/f1/1eddf1a1-35df-053e-49fc-8a356f05ab14/P48809751_A1072190364_FF.p_trickPlay_gr240.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=636656,_AVG-BANDWIDTH=636656,BANDWIDTH=697898,VIDEO-RANGE=SDR,CODECS="avc1.640020",RESOLUTION=1282x718,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/f9/36/6a/f9366a17-3a2a-ae24-5e84-fa4e1c024698/P48809751_A1072190364_FF.p_trickPlay_gr250.iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:AVERAGE-BANDWIDTH=844562,_AVG-BANDWIDTH=844562,BANDWIDTH=930947,VIDEO-RANGE=SDR,CODECS="avc1.640028",RESOLUTION=1908x1068,URI="https://hls.itunes.apple.com/itunes-assets/VideoPreview118/v4/eb/00/28/eb00282c-6d4c-ac61-84f1-ccee0c9358fa/P48809751_A1072190364_FF.p_trickPlay_gr265.iframe.m3u8"
+
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=6109547,_AVG-BANDWIDTH=6109547,BANDWIDTH=7408295,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE,CODECS="avc1.640028,mp4a.40.2",AUDIO="audio-stereo-160",FRAME-RATE=23.976,RESOLUTION=1908x1068,STABLE-VARIANT-ID="2eb5df7a98f776ca7145cd174264810878cda4ffb8340a8bd22e36b4dae757f8"
+https://hls.itunes.apple.com/itunes-assets/VideoPreview128/v4/fb/f9/f2/fbf9f2b4-aa0d-dc18-d146-3eda38812a00/P48809751_A1072190364_FF.p_video_gr280.m3u8
+
+#48809751 video moviePreviews external es (es-ES) ES Unknown HD   
